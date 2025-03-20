@@ -26,6 +26,8 @@ How It Works?
 
 Dataset: https://drive.google.com/file/d/1I5-g3CwnxFc0TAFHvXtAtKYArOAN-I2a/view
 
+Video: https://drive.google.com/file/d/19Vvu65Da6sQyRKjxz7ESfTelNp3G5Tdt/view?usp=sharing
+
 Architectural diagram:
 
 ![WhatsApp Image 2025-03-19 at 22 34 03_e755a24a](https://github.com/user-attachments/assets/5a43e291-8eea-4fd1-9daa-ec3f2e2b8e17)
