@@ -30,7 +30,7 @@ Video: https://drive.google.com/file/d/19Vvu65Da6sQyRKjxz7ESfTelNp3G5Tdt/view?us
 
 Architectural diagram:
 
-![WhatsApp Image 2025-03-19 at 22 34 03_e755a24a](https://github.com/user-attachments/assets/5a43e291-8eea-4fd1-9daa-ec3f2e2b8e17)
+![arch diagram](https://github.com/user-attachments/assets/0f1c0c94-8e16-4a8a-80aa-14723bd966f7)
 
 
 References:
